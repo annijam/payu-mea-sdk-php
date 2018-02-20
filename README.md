@@ -1,3 +1,5 @@
+# Abandoned. Please use the official repository @ https://github.com/PayUMEA/payu-mea-sdk-php
+
 # PayU MEA PHP SDK
 
 __Welcome to PayU PHP SDK__. This repository contains PayU's PHP SDK and samples for both Enterprise and Redirect SOAP API.
